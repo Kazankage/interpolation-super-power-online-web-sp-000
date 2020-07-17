@@ -1,7 +1,7 @@
 # Write your #display_rainbow method here
 def display_rainbow (colours)
     colours = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-   rainbow= "R: #{display_rainbow[0]}, O: #{display_rainbow[1]}, Y: #{display_rainbow[2]}, G: #{display_rainbow[3]}, B: #{display_rainbow[4]}, I: #{display_rainbow[5]}, V: #{display_rainbow[6]}"
+   rainbow= "R: #{colours[0]}, O: #{colours[1]}, Y: #{colours[2]}, G: #{colours[3]}, B: #{colours[4]}, I: #{colours[5]}, V: #{colours[6]}"
    
   puts rainbow
  
