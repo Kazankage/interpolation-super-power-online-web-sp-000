@@ -13,3 +13,4 @@ def display_rainbow (colours)
   puts rainbow
  rainbow
 end
+rainbow
