@@ -11,6 +11,6 @@ def display_rainbow (colours)
    V: #{colours[6]}"
    
   puts rainbow
- rainbow
+ 
 end
 rainbow
